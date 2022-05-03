@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tinker/static/css/main.a8dd17c6.css",
+    "main.js": "/tinker/static/js/main.589f7f98.js",
+    "static/js/787.373a0767.chunk.js": "/tinker/static/js/787.373a0767.chunk.js",
+    "index.html": "/tinker/index.html",
+    "main.a8dd17c6.css.map": "/tinker/static/css/main.a8dd17c6.css.map",
+    "main.589f7f98.js.map": "/tinker/static/js/main.589f7f98.js.map",
+    "787.373a0767.chunk.js.map": "/tinker/static/js/787.373a0767.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8dd17c6.css",
+    "static/js/main.589f7f98.js"
+  ]
+}
